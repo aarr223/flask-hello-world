@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 
-TOKEN = 'MTA0NDI0Mjc1NTQ5NDM1NDk4Ng.GmdmOt.dGuvst2LK00EcmVjZGOmmaeE9PNosbYckDK8W4'
+TOKEN = 'MTA0MDY0NjUzNDIwMDU3Mzk3Mg.GBlogr.zimYLe1gPMuh4_PsJEPirfS3AkqoLBGTcgAcEg'
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
